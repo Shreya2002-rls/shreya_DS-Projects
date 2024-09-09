@@ -1,1 +1,2 @@
 # shreya_DS-Projects
+In the banking sector, direct marketing campaigns are a common practice used to promote products such as term deposits, loans, and credit cards. These campaigns typically involve contacting potential customers through various channels, such as phone calls, emails, and direct mail. The goal is to identify and convert leads into customers, thereby increasing the bank’s revenue and customer base.
